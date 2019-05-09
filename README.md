@@ -7,14 +7,21 @@ Built with:
 
 .NET Core 2.2.4 Runtime
 
+
 Feel free to ask it anything!
+
 
 Here are some questions I trained it you can ask:
 
 Tell me about yourself
+
 Why do you want to work for Pacific Life?
+
 What are some fun facts about Pacific Life?
+
 What did you do at Dot Printer?
+
 What did you do at Conifer Health Solutions?
+
 What did you do at Team Prospect?
 
