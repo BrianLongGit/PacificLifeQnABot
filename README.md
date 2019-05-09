@@ -11,7 +11,7 @@ Built with:
 Feel free to ask it anything!
 
 
-Here are some questions I trained it you can ask:
+Here are some questions I trained the bot you can ask:
 
 Tell me about yourself
 
